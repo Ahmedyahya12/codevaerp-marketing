@@ -4,7 +4,7 @@
 import { useState } from "react";
 import { Menu, X, ExternalLink } from "lucide-react";
 
-const appUrl = "https://codevaerp-frontend.vercel.app/";
+const appUrl = "https://www.codevaerp.online/";
 
 const links = [
   { title: "الرئيسية", href: "#home" },

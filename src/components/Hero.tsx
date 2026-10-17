@@ -5,7 +5,7 @@ import { motion, useReducedMotion } from "motion/react";
 import { ArrowLeft, ExternalLink, MessageCircle } from "lucide-react";
 import { whatsappUrl } from "@/data/content";
 
-const appUrl = "https://codevaerp-frontend.vercel.app/";
+const appUrl = "https://www.codevaerp.online/";
 
 export default function Hero() {
   const reduced = useReducedMotion();
